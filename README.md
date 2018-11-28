@@ -1,5 +1,5 @@
 # float2
-2 ejercicio float 2 columnas 
+ejercicio 2 float 2 columnas 
 
 ```html
 <!DOCTYPE HTML>
